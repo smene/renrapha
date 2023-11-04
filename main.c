@@ -1,3 +1,9 @@
+/*
+Stavros Renia kai Raphaela
+5 Nov 2023
+*/
+
+
 #include <stdio.h>
 
 void main(void) {
@@ -6,7 +12,12 @@ void main(void) {
 
 int GetANumber(void)
 {
-    return 5;
+    int g = 5 * 9;
+    return g;
+}
+void Printer(void)
+{
+    printf("Hello World agains");
 }
 
 /* This is an example to discuss about git*/
